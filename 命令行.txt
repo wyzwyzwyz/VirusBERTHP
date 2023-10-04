@@ -1,0 +1,15 @@
+git add *
+
+git remote add origin https://github.com/wyzwyzwyz/VirusBERTHP.git
+
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
